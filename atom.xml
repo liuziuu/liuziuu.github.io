@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liuziuu.github.com/"/>
-  <updated>2017-01-25T17:18:59.000Z</updated>
+  <updated>2017-01-30T13:45:55.000Z</updated>
   <id>http://liuziuu.github.com/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://liuziuu.github.com/2017/01/26/hello-world/"/>
-    <id>http://liuziuu.github.com/2017/01/26/hello-world/</id>
-    <published>2017-01-25T17:18:59.000Z</published>
-    <updated>2017-01-25T17:18:59.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>欢迎来的念念的网站。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;欢迎来的念念的网站。&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>念念出生了</title>
